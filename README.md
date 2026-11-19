@@ -22,7 +22,7 @@
 
 <ul>
   <li>🐍 I mainly develop in <strong>Python</strong>.</li>
-  <li>⚙️ I know basics in <strong>C</strong> pour comprendre ce qu'il se passe sous le capot.</li>
+  <li>⚙️ I know basics in <strong>C</strong> to understand what’s going on under the bonnet.</li>
   <li>🐧 I work with <strong>Linux</strong> / <strong>WSL</strong>
 </ul>
 
