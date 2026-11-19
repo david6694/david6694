@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
-  <h1>Salut, moi c'est [Ton Nom / Pseudo] 👋</h1>
-  <p>Développeur <strong>Python</strong> • Bases en <strong>C</strong> • Environnement <strong>Linux / Bash</strong></p>
+  <h1>Hi , my name is David 👋</h1>
+ A fan of embedded technology and the Internet of Things. Curious and a jack-of-all-trades.
 </div>
 
 <hr />
