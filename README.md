@@ -24,8 +24,14 @@
   <li>🐧 I work with <strong>Linux</strong> <strong>WSL</strong> avec <strong>Bash</strong> et <strong>VS Code</strong>.</li>
 </ul>
 
-- 📫 How to reach me: https://www.linkedin.com/in/david-garrido-60b241203/
-- [![Discord Presence](https://lanyard.cnrad.dev/api/devgarr_6694)](https://discord.com/users/devgarr_6694)
+- 📫 How to reach me:
+<a href="https://discord.com/users/312636086327443456" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<a href="https://www.linkedin.com/in/david-garrido-60b241203/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <!--
 **david6694/david6694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
