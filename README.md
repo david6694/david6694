@@ -2,6 +2,8 @@
 <div align="center">
   <h1>Hi , my name is David 👋</h1>
  A fan of embedded technology and the Internet of Things. Curious and a jack-of-all-trades.
+  <img width="480" height="360" alt="Confused Homer Simpson GIF" src="https://github.com/user-attachments/assets/3c2295f3-aba8-4bf1-a149-e8234c4fdf59" />
+
 </div>
 
 <hr />
