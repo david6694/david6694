@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <h3>📌 About me </h3>
@@ -22,16 +23,20 @@
 <ul>
   <li>🐍 I mainly develop in <strong>Python</strong>.</li>
   <li>⚙️ I know basics in <strong>C</strong> pour comprendre ce qu'il se passe sous le capot.</li>
-  <li>🐧 I work with <strong>Linux</strong> <strong>WSL</strong> avec <strong>Bash</strong> et <strong>VS Code</strong>.</li>
+  <li>🐧 I work with <strong>Linux</strong> / <strong>WSL</strong>
 </ul>
 
-- 📫 How to reach me:
+<h3> 📫 How to reach me: </h3>
 <a href="https://discord.com/users/312636086327443456" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
 <a href="https://www.linkedin.com/in/david-garrido-60b241203/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:devgarri@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <h3>🗣️ Spoken Languages</h3>
