@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-<h3>📌 À propos</h3>
+<h3>📌 About me </h3>
 
 <ul>
   <li>🐍 I mainly develop in <strong>Python</strong>.</li>
